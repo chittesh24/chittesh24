@@ -5,7 +5,7 @@
 * 👂 My name is Chittesh S
 * 👩 Pronouns: Mr.
 * 🔭 I’m currently looking for jobs 
-* 🌱 I’m currently learning Data Scienec
+* 🌱 I’m currently learning Data Science
 * 🤝 I’m looking to collaborate on Embedded Software Development 
 * 📫 How to reach me: reachchitteshchittuselvaraj@gmail.com 
 * ❤️ I love Wander
