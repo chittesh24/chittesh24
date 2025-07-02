@@ -8,7 +8,7 @@
 * 🌱 I’m currently learning Data Science
 * 🤝 I’m looking to collaborate on Embedded Software Development 
 * 📫 How to reach me: reachchitteshchittuselvaraj@gmail.com 
-* ❤️ I love Wander
+* ❤️ I love to Wander
 * ⚡ Fun fact: Fast learner
 
 I’m Chittesh S, a passionate and hands-on Electrical and Electronics Engineering undergraduate from Sri Ramakrishna Engineering College, Coimbatore. I specialize in embedded systems development with experience in PIC and STM32 microcontrollers, C/C++ programming, and sensor integration.I enjoy building efficient, real-world solutions using tools like Proteus, MPLAB, MATLAB, and Arduino. Always exploring new tech and refining my skills through certifications and practical training in industrial environments.
