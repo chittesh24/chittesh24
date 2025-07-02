@@ -48,5 +48,12 @@ Let’s build smarter systems—one line of code at a time.
 [![Chittesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chittesh24&show_icons=true&theme=dark)](https://github.com/chittesh24/github-readme-stats)
 
 <br />
+<hr />
+
+### Workspace Spec
+
+<a href='https://github.com/chittesh24' target="_blank"><img alt='Dell' src='https://img.shields.io/badge/Dell_g15-100000?style=for-the-badge&logo=Dell&logoColor=white&labelColor=0089CD&color=019CD0'/></a>
+<a href='https://github.com/chittesh24' target="_blank"><img alt='Nvidia' src='https://img.shields.io/badge/RTX_3050-100000?style=for-the-badge&logo=Nvidia&logoColor=white&labelColor=01C34C&color=01CA52'/></a>
+<a href='https://github.com/chittesh24' target="_blank"><img alt='intel' src='https://img.shields.io/badge/core_i5 12500h-100000?style=for-the-badge&logo=intel&logoColor=white&labelColor=0090FF&color=0184EA'/></a>
 
 #
