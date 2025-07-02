@@ -26,13 +26,20 @@ Let’s build smarter systems—one line of code at a time.
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=40670&format=png&color=000000" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=40669&format=png&color=000000" />
+<img align="left" alt="Embedded Systems" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=oaoTa6nA7qv3&format=png&color=000000" />
+<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=13441&format=png&color=000000" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=aR9CXyMagKIS&format=png&color=000000" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=xSkewUSqtErH&format=png&color=000000" />
+<img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" />
+<img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://logo.svgcdn.com/l/seaborn-icon-8x.png" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=J6KcaRLsTgpZ&format=png&color=000000" />
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=r5Y16PcDkoWI&format=png&color=000000" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=g7P0iny5Rros&format=png&color=000000" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Powerpoint" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=81726&format=png&color=000000" />
+<img align="left" alt="excel" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" />
+
 
 <br />
 <hr />
