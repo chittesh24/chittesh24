@@ -38,8 +38,8 @@ Let’s build smarter systems—one line of code at a time.
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=g7P0iny5Rros&format=png&color=000000" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Powerpoint" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=81726&format=png&color=000000" />
-<img align="left" alt="excel" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" />
-
+<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" />
+<img align="left" alt="google collab" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" />
 
 <br />
 <hr />
