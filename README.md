@@ -3,7 +3,7 @@
 **`Embedded Software Developer`**
 ### Hi there 👋
 * 👂 My name is Chittesh S
-* 👩 Pronouns: Mr.
+* 👨 Pronouns: Mr.
 * 🔭 I’m currently looking for jobs 
 * 🌱 I’m currently learning Data Science
 * 🤝 I’m looking to collaborate on Embedded Software Development 
