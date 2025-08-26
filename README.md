@@ -46,8 +46,8 @@ Let’s build smarter systems—one line of code at a time.
 
 ### Language Used
 
-<a href="https://github.com/theja-vanka#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittesh24&custom_title=Languages&langs_count=3&hide_border=true&hide=html,css,matlab&theme=github_dark" /></a>
-<a href="https://github.com/theja-vanka#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittesh24&custom_title=Languages&langs_count=3&hide_border=true&hide=html,css,matlab" /></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittesh24&custom_title=Languages&langs_count=3&hide_border=true&hide=html,css,matlab&theme=github_dark" /></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittesh24&custom_title=Languages&langs_count=3&hide_border=true&hide=html,css,matlab" /></a>
 
 ### Github Stats
 [![Chittesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chittesh24&show_icons=true&theme=dark)](https://github.com/chittesh24/github-readme-stats)
