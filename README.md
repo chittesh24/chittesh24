@@ -1,6 +1,6 @@
 # CHITTESH S
 
-**`Embedded Software Developer`**
+**`Embedded Software Developer`** **`Exploring Data Science & Machine Learning`**
 ### Hi there 👋
 * 👂 My name is Chittesh S
 * 👨 Pronouns: Mr.
