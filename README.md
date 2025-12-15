@@ -27,8 +27,8 @@ Let’s build smarter AI systems—one model at a time.
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=13441&format=png&color=000000" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=40670&format=png&color=000000" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=40669&format=png&color=000000" />
-<img width="30px" src="https://cdn.simpleicons.org/langchain/000000"/>
-<img align="left" alt="Embedded Systems" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=oaoTa6nA7qv3&format=png&color=000000" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/langchain/ffffff" />
+
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=aR9CXyMagKIS&format=png&color=000000" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=xSkewUSqtErH&format=png&color=000000" />
