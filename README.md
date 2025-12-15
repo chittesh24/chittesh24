@@ -1,18 +1,18 @@
 # CHITTESH S
 
-**`Embedded Software Developer`** **`Exploring Data Science & Machine Learning`**
+ **`Fresher AI/ML Engineer`** **`Python`** **`Python`** **'Machine Learning'** **`Generative AI & LLMs`**
 ### Hi there 👋
 * 👂 My name is Chittesh S
 * 👨 Pronouns: Mr.
 * 🔭 I’m currently looking for jobs 
 * 🌱 I’m currently learning Data Science
-* 🤝 I’m looking to collaborate on Embedded Software Development 
+* 🤝 I’m looking to collaborate on AI/ML Engineer
 * 📫 How to reach me: reachchitteshchittuselvaraj@gmail.com 
 * ❤️ I love to Wander
 * ⚡ Fun fact: Fast learner
 
-I’m Chittesh S, a passionate and hands-on Electrical and Electronics Engineering undergraduate from Sri Ramakrishna Engineering College, Coimbatore. I specialize in embedded systems development with experience in PIC and STM32 microcontrollers, C/C++ programming, and sensor integration.I enjoy building efficient, real-world solutions using tools like Proteus, MPLAB, MATLAB, and Arduino. Always exploring new tech and refining my skills through certifications and practical training in industrial environments.
-Let’s build smarter systems—one line of code at a time.
+I’m Chittesh S, a passionate and hands-on AI/ML and Data Science enthusiast from Sri Ramakrishna Engineering College, Coimbatore. I focus on building data-driven and intelligent systems using Python, Machine Learning, NLP, and Generative AI, with hands-on experience through academic and self-driven projects. I enjoy transforming raw data into meaningful insights and experimenting with modern AI frameworks and LLM-based workflows, continuously learning and refining my skills through certifications and real-world practice.
+Let’s build smarter AI systems—one model at a time.
 
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/reachchitteshch1)
