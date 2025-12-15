@@ -1,6 +1,6 @@
 # CHITTESH S
 
- **`Fresher AI/ML Engineer`** **`Python`** **`Python`** **'Machine Learning'** **`Generative AI & LLMs`**
+ **`Fresher AI/ML Engineer`** **`Python`** **`Python`** **`Machine Learning`** **`Generative AI & LLMs`**
 ### Hi there 👋
 * 👂 My name is Chittesh S
 * 👨 Pronouns: Mr.
