@@ -27,6 +27,9 @@ Let’s build smarter AI systems—one model at a time.
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=13441&format=png&color=000000" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=40670&format=png&color=000000" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=40669&format=png&color=000000" />
+<img align="left" alt="Machine Learning" width="30px" style="padding-right:10px;" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-machine-learning-technology-flaticons-flat-flat-icons.png" />
+<img align="left" alt="Artificial Intelligence" width="30px" style="padding-right:10px;" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-artificial-intelligence-robotics-flaticons-flat-flat-icons.png" />
+<img align="left" alt="Data Science" width="30px" style="padding-right:10px;" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-data-science-analytics-flaticons-flat-flat-icons.png" />
 <img align="left" alt="Embedded Systems" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=oaoTa6nA7qv3&format=png&color=000000" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=aR9CXyMagKIS&format=png&color=000000" />
