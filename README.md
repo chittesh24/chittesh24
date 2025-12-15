@@ -33,9 +33,10 @@ Let’s build smarter AI systems—one model at a time.
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=xSkewUSqtErH&format=png&color=000000" />
 <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" />
 <img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://logo.svgcdn.com/l/seaborn-icon-8x.png" />
+<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://www.readmecodegen.com/api/social-icon?name=fastapi&size=96" alt="fastapi" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=J6KcaRLsTgpZ&format=png&color=000000" />
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=r5Y16PcDkoWI&format=png&color=000000" />
-![docker](https://www.readmecodegen.com/api/social-icon?name=docker&size=96)
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://www.readmecodegen.com/api/social-icon?name=docker&size=96" alt="docker" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?&id=g7P0iny5Rros&format=png&color=000000" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Powerpoint" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=81726&format=png&color=000000" />
