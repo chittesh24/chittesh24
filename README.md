@@ -57,7 +57,6 @@ Let’s build smarter AI systems—one model at a time.
 ### 📊 GitHub Stats
 [![Chittesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chittesh24&show_icons=true&theme=dark)](https://github.com/chittesh24)
 
----
 <br />
 <hr />
 
