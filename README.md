@@ -50,12 +50,12 @@ Let’s build smarter AI systems—one model at a time.
 ---
 
 ### 🌐 Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chittesh24&custom_title=Languages&langs_count=3&hide=html,css,matlab&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chittesh24&langs_count=3&hide=html,css,matlab&theme=github_dark&hide_border=true&cache_seconds=1800)
 
 ---
 
 ### 📊 GitHub Stats
-[![Chittesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chittesh24&show_icons=true&theme=dark)](https://github.com/chittesh24)
+![Chittesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chittesh24&show_icons=true&theme=dark&cache_seconds=1800)
 
 <br />
 <hr />
